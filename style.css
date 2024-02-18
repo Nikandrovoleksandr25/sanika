@@ -1,0 +1,237 @@
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.span-color{
+color: #000;
+}
+.studio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.portfolio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.contacts {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.information {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.information-number {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.hero-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 44px;
+  margin-left: 452px;
+  margin-right: 452px;
+  margin-top: 200px;
+  margin-bottom: 30px;
+  line-height: 60px;
+  line-height: 1.36364;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ffffff;
+}
+.header-group {
+  width: 1600px;
+  height: 600px;
+  background: #2f303a;
+  margin-top: 80px;
+  margin-bottom: 94px;
+ margin-left: 0px;
+ margin-right: 0px;
+}
+.btn {
+  width: 200px;
+  height: 50px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #2196f3;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  margin-left: 700px;
+  margin-top: 30px;
+  margin-bottom: 200px;
+  margin-right: 700px;
+
+   line-height: 30px;
+  line-height: 1.875;
+  letter-spacing: 0.06em;
+  text-align: center;
+  color: #fff;
+  
+}
+.about-group{
+margin-left: 215px;
+margin-top: 94px;
+margin-bottom: 94px;
+margin-right: 215px;
+width: 1170px;
+height: 98px;
+}
+.features{
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+.features-text{
+font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+
+     line-height: 24px; 
+    line-height: 1.71429;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.our-occupation{
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #212121;
+    margin-top: 94px;
+    margin-bottom: 50px;
+    margin-left: 617px;
+    margin-right: 617px;
+    width: 366px;
+    height: 42px;
+}
+
+
+.occupation-one{
+    margin-left: 215px;
+    margin-right: 215px;
+    margin-top: 50px;
+    margin-bottom: 94px;
+}
+.occupation-two{
+    margin-left: 215px;
+    margin-right: 215px;
+    margin-top: 50px;
+    margin-bottom: 94px;
+}
+.occupation-three{
+    margin-left: 215px;
+    margin-right: 215px;
+    margin-top: 50px;
+    margin-bottom: 94px;
+}
+.our-team{
+    width: 1600px;
+        height: 648px;
+}
+.team{
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #212121;
+    margin-top: 94px;
+    margin-left: 668px;
+    margin-right: 668px;
+    margin-bottom: 50px;
+    width: 264px;
+    height: 42px;
+}
+.it-group{
+width: 270px;
+    height: 260px;
+    box-sizing: border-box;
+}
+.name{
+font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #212121;
+}
+.specialization{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.03em;
+        text-align: center;
+        color: #757575;
+}
+.footer{
+    width: 1600px;
+        height: 251px;
+    background: #2f303a;
+}
+.logo{
+font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+}
+.address{
+    width: 231px;
+    height: 72px;
+}
+.street-address{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+    
+         line-height: 16px; 
+        line-height: 1.14286;
+        letter-spacing: 0.03em;
+        color: #fff;
+}
+.information-email{
+font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+
+     line-height: 16px; 
+    line-height: 1.14286;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.information-telephone{
+font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+
+     line-height: 16px; 
+    line-height: 1.14286;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.span{
+color: #ffffff;
+}
