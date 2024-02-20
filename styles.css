@@ -5,27 +5,22 @@
   letter-spacing: 0.03em;
   color: #2196f3;
 }
-.span-color {
+.span-studio {
   color: #000;
-}
-.header-group {
-  width: 1600px;
-  height: 600px;
-  background: #2f303a;
 }
 .studio {
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 0.02em;
-  color: #2196f3;
+  color: #212121;
 }
 .portfolio {
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 0.02em;
-  color: #212121;
+  color: #2196f3;
 }
 .contacts {
   font-family: var(--font-family);
@@ -34,13 +29,6 @@
   letter-spacing: 0.02em;
   color: #212121;
 }
-.information {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 14px;
-  letter-spacing: 0.02em;
-  color: #2196f3;
-}
 .information-number {
   font-family: var(--font-family);
   font-weight: 500;
@@ -48,94 +36,114 @@
   letter-spacing: 0.02em;
   color: #757575;
 }
-.hero-title {
+.information {
   font-family: var(--font-family);
-  font-weight: 900;
-  font-size: 44px;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+.all {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
 
-  line-height: 60px;
-  line-height: 1.36364;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  line-height: 26px;
+  line-height: 1.625;
+  letter-spacing: 0.03em;
   text-align: center;
   color: #fff;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 67px;
+  height: 38px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.08),
+    0 3px 1px 0 rgba(0, 0, 0, 0.1);
+  background: #2196f3;
+}
+.websites {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+
+  line-height: 26px;
+  line-height: 1.625;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 125px;
+  height: 38px;
+  background: #f5f4fa;
+}
+.applications {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+
+  line-height: 26px;
+  line-height: 1.625;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 112px;
+  height: 38px;
+  background: #f5f4fa;
+}
+.design {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+
+  line-height: 26px;
+  line-height: 1.625;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 103px;
+  height: 38px;
+  background: #f5f4fa;
+}
+.marketing {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+
+  line-height: 26px;
+  line-height: 1.625;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 130px;
+  height: 38px;
+  background: #f5f4fa;
 }
 
-.btn {
-  border-radius: 4px;
-  width: 200px;
-  height: 50px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #2196f3;
+.text {
   font-family: var(--font-family);
   font-weight: 700;
+  font-size: 18px;
+
+  line-height: 36px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.classification {
+  font-family: var(--font-family);
+  font-weight: 400;
   font-size: 16px;
 
   line-height: 30px;
   line-height: 1.875;
-  letter-spacing: 0.06em;
-  text-align: center;
-  color: #fff;
-  cursor: pointer;
-}
-
-.features {
-  font-family: var(--font-family);
-  font-weight: 700;
-  font-size: 14px;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #212121;
-}
-
-.features-text {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 14px;
-
-  line-height: 24px;
-  line-height: 1.71429;
-  letter-spacing: 0.03em;
-  color: #757575;
-}
-
-
-.our-occupation {
-  font-family: var(--font-family);
-  font-weight: 700;
-  font-size: 36px;
-  letter-spacing: 0.03em;
-  text-align: center;
-  color: #212121;
-}
-.our-team{
- 
-    background: #f5f4fa;
-}
-
-.team {
-  font-family: var(--font-family);
-  font-weight: 700;
-  font-size: 36px;
-  letter-spacing: 0.03em;
-  text-align: center;
-  color: #212121;
-}
-
-.name {
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  letter-spacing: 0.03em;
-  text-align: center;
-  color: #212121;
-}
-.specialization {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  letter-spacing: 0.03em;
-  text-align: center;
   color: #757575;
 }
 
@@ -147,7 +155,7 @@
   color: #2196f3;
 }
 .span {
-  color: #fff;
+  color: #ffffff;
 }
 
 .street-address {
